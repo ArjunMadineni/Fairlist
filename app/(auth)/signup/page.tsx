@@ -45,7 +45,7 @@ export default function SignupPage() {
             margin: '0 auto 16px', display: 'flex', alignItems: 'center',
             justifyContent: 'center', fontSize: 22, fontWeight: 700,
             color: '#fff', fontFamily: 'Syne, sans-serif',
-          }}>T</div>
+          }}>F</div>
           <h1 style={{ fontFamily: 'Syne, sans-serif', fontSize: 28, fontWeight: 700, color: '#ffffff', margin: '0 0 6px' }}>
             Create account
           </h1>
