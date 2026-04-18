@@ -35,8 +35,8 @@ export default function Sidebar({ user }: { user: User }) {
           width: 32, height: 32, borderRadius: 9, background: '#7c6dfa',
           display: 'flex', alignItems: 'center', justifyContent: 'center',
           fontSize: 15, fontWeight: 700, color: '#fff', flexShrink: 0,
-        }}>T</div>
-        <span style={{ fontSize: 18, fontWeight: 700, color: '#ffffff' }}>TaskFlow</span>
+        }}>F</div>
+        <span style={{ fontSize: 18, fontWeight: 700, color: '#ffffff' }}>FairList</span>
       </div>
 
       <nav style={{ flex: 1, padding: '12px 10px' }}>
