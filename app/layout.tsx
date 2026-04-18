@@ -3,7 +3,7 @@ import './globals.css'
 import Providers from './providers'
 
 export const metadata: Metadata = {
-  title: 'TaskFlow',
+  title: 'FairList',
   description: 'Your personal task management system',
 }
 
