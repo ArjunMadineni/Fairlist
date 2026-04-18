@@ -39,9 +39,9 @@ export default function LoginPage() {
             display: 'flex', alignItems: 'center', justifyContent: 'center',
             fontSize: 22, fontWeight: 700, color: '#fff',
             fontFamily: 'Syne, sans-serif',
-          }}>T</div>
+          }}>F</div>
           <h1 style={{ fontFamily: 'Syne, sans-serif', fontSize: 28, fontWeight: 700, color: '#ffffff', margin: '0 0 6px' }}>
-            TaskFlow
+            FairList
           </h1>
           <p style={{ color: '#8888a0', fontSize: 14, margin: 0 }}>Sign in to your workspace</p>
         </div>
